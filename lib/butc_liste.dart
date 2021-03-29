@@ -38,7 +38,7 @@ class _MainPageState extends State<MainPage> {
                     child: Icon(Icons.search),
                   ),
                   Container(
-                    margin: EdgeInsets.only(bottom: 8),
+                    margin: EdgeInsets.only(bottom: 10),
                     width: 200,
                     height: 30,
                     child: TextField(
